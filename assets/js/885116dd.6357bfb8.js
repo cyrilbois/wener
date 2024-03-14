@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkwener_website=self.webpackChunkwener_website||[]).push([[16704],{21240:e=>{e.exports=JSON.parse('{"label":"Security","permalink":"/notes/tags/security","allTagsPath":"/notes/tags","count":1,"items":[{"id":"os/linux/sys/isolate","title":"isolate","description":"- ioi/isolate","permalink":"/notes/os/linux/sys/isolate"}],"unlisted":false}')}}]);

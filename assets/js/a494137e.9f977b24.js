@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkwener_website=self.webpackChunkwener_website||[]).push([[12632],{84368:e=>{e.exports=JSON.parse('{"label":"Legacy","permalink":"/notes/tags/legacy","allTagsPath":"/notes/tags","count":1,"items":[{"id":"web/framework/prisma1","title":"Prisma","description":"- prisma/prisma","permalink":"/notes/web/framework/prisma1"}],"unlisted":false}')}}]);
